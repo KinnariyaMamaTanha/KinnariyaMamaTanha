@@ -4,7 +4,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KinnariyaMamaTanha
 
 ### About me
 
-> I am Jingyu Zhou, a graduate student in SJTU.
+> I am Jingyu Zhou, a undergraduate student in SJTU.
 
 - 🌱 I’m currently learning **computer science, math and artificial intelligence**
 
