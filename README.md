@@ -4,13 +4,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KinnariyaMamaTanha
 
 ### About me
 
-> I am Jingyu Zhou, a undergraduate student in SJTU.
+> I am Jingyu Zhou, an undergraduate student in SJTU.
 
 - 🌱 I’m currently learning **computer science, math and artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/KinnariyaMamaTanha?tab=repositories)
 
-- 📝 I regularly write articles on [aiTour](https://aitour.icu)
+- 📝 I regularly write articles on [aiTour](https://aitour.icu) and my [blogs](https://kinnariyamamatanha.github.io/blogs/), both in Chinese.
 
 - 📫 How to reach me: **jy_zhou@sjtu.edu.cn**
 
@@ -36,7 +36,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KinnariyaMamaTanha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,docker,git,bash,powershell,cmake,vim,neovim,obsidian,pycharm,idea,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,docker,git,bash,vim,neovim,vscode" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KinnariyaMamaTanha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
   </a>
 </p>
 
