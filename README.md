@@ -26,7 +26,7 @@
 
 💬 All of my projects are available at <a href="https://github.com/KinnariyaMamaTanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kinnari" height="30" width="40" /></a>
 
-🌱 I’m studying on **LLM Reasoning, Operating Systems** now.
+🌱 I’m studying on **LLM Inference, Operating Systems** now.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-kinnari.vercel.app/api?username=KinnariyaMamaTanha&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -41,12 +41,9 @@
 
 <p align="center">
   <samp>
-    <!-- <a href="https://WncFht.cc/">me</a> ∙ -->
-    <a href="https://KinnariyaMamaTanha.github.io/">Blogs</a> ∙
+    <a href="https://kinnari-blog.vercel.app/">Blogs</a> ∙
     <a href="https://KinnariyaMamaTanha.github.io/academy/">HomePage</a> ·
     <a href="https://www.zhihu.com/people/Kinnariya">ZhiHu</a>
-    <!-- <a href="https://t.me/WncFhtSky">channel</a> ∙
-    <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
 </p>
 
