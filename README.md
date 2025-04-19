@@ -14,7 +14,7 @@
 
 🌏 I’m currently working on **MLsys** and **LLM**.
 
-👀 I'm a lab intern in SJTU-IPADS now.
+<!-- 👀 I'm a lab intern in SJTU-IPADS now. -->
 
 <!-- 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community. -->
 
