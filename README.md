@@ -31,7 +31,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-kinnari.vercel.app/api?username=KinnariyaMamaTanha&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-kinnari.vercel.app/api/top-langs?username=KinnariyaMamaTanha&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
