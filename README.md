@@ -12,9 +12,9 @@
 
 💻 I’ve learnt a litte **Probability**, **computer architecture**, **machine/deep/reinfocement learning** and **MLsys**.
 
-🌏 I’m currently working on **MLsys** and **LLM**.
+🌏 I’m currently working on **LLM** with **RL**.
 
-<!-- 👀 I'm a lab intern in SJTU-IPADS now. -->
+👀 I'm a lab intern in PKU-DAIR now.
 
 <!-- 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community. -->
 
@@ -24,9 +24,9 @@
 
 📫 How to reach me: `base64 -d <<< anlfemhvdUBzanR1LmVkdS5jbg==` (for official contact) and `base64 -d <<< MjgyMzMyNDIyOEBxcS5jb20=` (for other reasons).
 
-💬 All of my projects are available at <a href="https://github.com/KinnariyaMamaTanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kinnari" height="30" width="40" /></a>
+💬 All of my projects are available at <a href="https://github.com/KinnariyaMamaTanha?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kinnari" height="30" width="40" /></a>
 
-🌱 I’m studying on **LLM Inference, Operating Systems** now.
+🌱 I’m studying on **RL** and **computer network** now.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-kinnari.vercel.app/api?username=KinnariyaMamaTanha&show_icons=true&theme=tokyonight&hide_border=true" />
