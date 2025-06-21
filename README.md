@@ -18,7 +18,7 @@
 
 <!-- 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community. -->
 
-📒 I'm writing some blogs in <a href="https://kinnariyamamatanha.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
+📒 I'm writing some blogs in <a href="https://kinnari-blog.vercel.app/">my blog</a>. The blogs are some of my ideas and notes when learning and coding.
 
 📜 I'm a big fan of [**三无 Marblue**](https://space.bilibili.com/284120). And my on-line name comes from her music [**歌乐天**](https://www.youtube.com/watch?v=m-UhtKnaLQU).
 
@@ -42,7 +42,6 @@
 <p align="center">
   <samp>
     <a href="https://kinnari-blog.vercel.app/">Blogs</a> ∙
-    <a href="https://KinnariyaMamaTanha.github.io/academy/">HomePage</a> ·
     <a href="https://www.zhihu.com/people/Kinnariya">ZhiHu</a>
   </samp>
 </p>
