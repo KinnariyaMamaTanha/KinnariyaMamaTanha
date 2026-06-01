@@ -10,11 +10,11 @@
 
 🔭 I'm Kinnari, an undergraduate student from **@SJTU** majoring in Artificial-Intelligence **@SJTU-SEIEE**.
 
-💻 I’ve learnt a litte **Probability**, **machine/deep/reinfocement learning** and **MLsys**.
+💻 I’ve learnt a litte **Probability**, **machine/deep/reinfocement learning** and **MLsys**. I'm planning to learn something about world model.
 
 🌏 I’m currently working on **LLM** with **RL**.
 
-👀 I'm a full-time intern in **[THU Alex Lab](https://sites.google.com/view/alexmlamb/home)** now. Previously, I worked as a research intern at [IAAR](https://www.iaar.ac.cn/).
+👀 I'm a full-time intern in **[MSRA Vancouver](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/)** now. Previously, I worked as a research intern at [IAAR](https://www.iaar.ac.cn/).
 
 <!-- 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community. -->
 
